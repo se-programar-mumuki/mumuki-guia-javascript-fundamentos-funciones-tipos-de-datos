@@ -2,7 +2,7 @@ Quizás ya lo notaste pero, junto al editor, ahora aparece una pestaña nueva: l
 
 La consola es una herramienta muy útil para hacer pruebas rápidas sobre lo que estás haciendo: te permite, por ejemplo, probar _expresiones_, funciones que vengan con JavaScript, **o incluso funciones que vos definas en el editor**. 
 
-La podés reconocer fácilmente porque arranca con un chirimbolito, que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
+La podés reconocer fácilmente porque arranca con un chirimbolito que se llama _[prompt](https://es.wikipedia.org/wiki/Prompt)_.
 
 Para entender mejor cómo funciona, te invitamos a explorarla.
 
